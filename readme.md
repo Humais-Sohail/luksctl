@@ -3,7 +3,7 @@
 A simple terminal-based utility for managing LUKS-encrypted volumes on Linux.
 
 <p align="center">
-  <img src="images/screenshot.png" alt="LUKSCTL Screenshot" width="900">
+  <img src="screenshot.png" alt="LUKSCTL Screenshot" width="900">
 </p>
 
 ## Features
