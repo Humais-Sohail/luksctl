@@ -18,9 +18,6 @@ A simple terminal-based utility for managing LUKS-encrypted volumes on Linux.
 - 🗑️ Wipe existing filesystem signatures
 - 📦 Simple terminal interface
 
-## Screenshot
-
-*(Optional if you already have the image above. If you use the image as a hero image, you can skip this section.)*
 
 ## Requirements
 
