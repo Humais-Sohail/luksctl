@@ -68,6 +68,3 @@ Follow the interactive menu to:
 - Always verify the selected device before encrypting or wiping it.
 - LUKSCTL is intended for removable drives and testing. Use caution with system disks.
 
-## License
-
-MIT License
